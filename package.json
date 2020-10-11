@@ -1,0 +1,24 @@
+{
+  "name": "mqtt-firebase-bridge",
+  "version": "1.0.0",
+  "description": "Bridge between mqtt and firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balsick/mqtt-firebase-bridge.git"
+  },
+  "keywords": [
+    "firebase",
+    "mqtt",
+    "bridge"
+  ],
+  "author": "balsick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balsick/mqtt-firebase-bridge/issues"
+  },
+  "homepage": "https://github.com/balsick/mqtt-firebase-bridge#readme"
+}
