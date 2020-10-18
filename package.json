@@ -1,6 +1,6 @@
 {
   "name": "mqtt-firebase-bridge",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Bridge between mqtt and firebase",
   "main": "./lib/mqtt-firebase.js",
   "scripts": {
